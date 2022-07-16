@@ -1,6 +1,6 @@
 #!/bin/sh
-
-UUID=0928b599-0629-4f47-8076-bacf774ee33c
+88fc50a0-79ed-4655-a173-65fbaca01dab
+UUID=
 WSPATH=/70966919-e2b6-4264-963d-f3405963e4bb
 
 # Download and install xray
